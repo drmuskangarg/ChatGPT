@@ -1,0 +1,2 @@
+# ChatGPT
+Detailed Explanation
